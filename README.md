@@ -13,11 +13,6 @@ I am a passionate Machine Learning Researcher with experience in developing inno
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaluHarshavardan99&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaluHarshavardan99&layout=compact&theme=radical)
-
 ## 💼 Professional Experience
 
 ### Machine Learning Researcher, SUNY RF
