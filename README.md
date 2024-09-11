@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Balu Harshavardan Koduru
 
+## 📄 Resume & Portfolio
+
+- **[Resume](https://drive.google.com/file/d/1xe0lpe2pb68Jz25Jndp851f1sYIGxKbd/view?usp=sharing)**
+- **[Personal Portfolio](https://baluharshavardan99.github.io/my-portfolio/)**
+
+
 I am a passionate Machine Learning Researcher with experience in developing innovative solutions across various domains like endoscopic surgery analysis, drone fleet control, and energy optimization. My work spans multiple disciplines, integrating deep learning models, natural language processing, and reinforcement learning to create impactful solutions.
 
 ## 🔧 Technologies & Tools
