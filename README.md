@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Balu Harshavardan Koduru
 
+I am a passionate Machine Learning Researcher with experience developing AI solutions across several domains. I’ve created the EndoAssistant VQA model and fine-tuned LLaVA for AI-driven assistance. Currently, I’m focused on building advanced recommendation systems using Llama LLM. I’m seeking AI/ML roles where I can contribute to innovative and impactful projects.
+
+
+
+
+
+
+
 
 
 <a href="https://drive.google.com/file/d/1xe0lpe2pb68Jz25Jndp851f1sYIGxKbd/view?usp=sharing" target="_blank">
