@@ -57,12 +57,19 @@ I am a passionate Machine Learning Researcher with experience in developing inno
 
 - **Master of Science (MS) in Artificial Intelligence**, University at Buffalo, The State University of New York *(May 2024)*
 - **Master of Science (M.Sc.) in Physics**, Birla Institute of Technology and Sciences Pilani *(June 2022)*
-- **Bachelor of Engineering (B.E.) in Electronics and Instrumentation**, BITS Pilani
+- **Bachelor of Engineering (B.E.) in Electronics and Instrumentation**, BITS Pilani *(June 2022)*
 
 ## 📚 Publications
 
+- " Recent Advances in Thermal Imaging and It’s Applications using Machine Learning: A Review" - IEEE Sensors
 - "Classification of UAVs Using Time-Frequency Analysis of Remote Control Signals and CNN" - IEEE iSES 2022
 - "Light Weight Deep CNN for Background Sound Classification in Speech Signals" - JASA
+- ## 📚 Publications
+
+- ["Recent Advances in Thermal Imaging and It’s Applications using Machine Learning: A Review"](https://ieeexplore.ieee.org/abstract/document/10014654) - IEEE Sensors
+- ["Classification of UAVs Using Time-Frequency Analysis of Remote Control Signals and CNN"](https://ieeexplore.ieee.org/abstract/document/10027150) - IEEE iSES 2022
+- ["Light Weight Deep CNN for Background Sound Classification in Speech Signals"](https://pubs.aip.org/asa/jasa/article-abstract/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for?redirectedFrom=fulltext) - JASA
+
 
 ## 📫 How to reach me
 
