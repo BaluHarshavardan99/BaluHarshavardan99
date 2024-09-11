@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Balu Harshavardan Koduru
 
-## 📄 Resume & Portfolio
 
-## 📄 Resume & Portfolio
 
 <a href="https://drive.google.com/file/d/1xe0lpe2pb68Jz25Jndp851f1sYIGxKbd/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
