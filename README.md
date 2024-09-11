@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balu Harshavardan Koduru
 
-I am a passionate Machine Learning Researcher with experience developing AI solutions across several domains. I’ve created the EndoAssistant VQA model and fine-tuned LLaVA for AI-driven assistance. Currently, I’m focused on building advanced recommendation systems using Llama LLM. I’m seeking AI/ML roles where I can contribute to innovative and impactful projects.
+
 
 
 
@@ -19,9 +19,7 @@ I am a passionate Machine Learning Researcher with experience developing AI solu
 
 
 
-
-
-I am a passionate Machine Learning Researcher with experience in developing innovative solutions across various domains like endoscopic surgery analysis, drone fleet control, and energy optimization. My work spans multiple disciplines, integrating deep learning models, natural language processing, and reinforcement learning to create impactful solutions.
+I am a passionate Machine Learning Researcher with experience developing AI solutions across various domains, specializing in large language models (LLMs), natural language processing (NLP), computer vision, and multi-agent systems. I have worked on creating impactful models using deep learning and reinforcement learning. Currently, I’m focused on advanced recommendation systems using Llama LLM. I’m seeking opportunities in AI/ML roles where I can leverage my skills to contribute to cutting-edge projects.
 
 ## 🔧 Technologies & Tools
 
