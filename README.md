@@ -10,7 +10,7 @@
 
 
 
-<a href="https://drive.google.com/file/d/1xe0lpe2pb68Jz25Jndp851f1sYIGxKbd/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1cg2lUEMi1uAwP5o4xz9Qf0o3dsXkEiqw/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
 </a>
 <a href="https://baluharshavardan99.github.io/my-portfolio/" target="_blank">
