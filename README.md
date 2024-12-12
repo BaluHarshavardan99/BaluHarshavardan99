@@ -19,7 +19,7 @@
 
 
 
-I am a passionate Machine Learning Researcher with experience developing AI solutions across various domains, specializing in large language models (LLMs), natural language processing (NLP), computer vision, and multi-agent systems. I have worked on creating impactful models using deep learning and reinforcement learning. Currently, I’m focused on advanced recommendation systems using Llama LLM. I’m seeking opportunities in AI/ML roles where I can leverage my skills to contribute to cutting-edge projects.
+I am a passionate Machine Learning Engineer with experience developing AI solutions across various domains, specializing in Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), computer vision, and multi-agent systems. I have worked on creating impactful models using deep learning and reinforcement learning. Currently, I’m focused on advanced recommendation systems using Llama LLM. I’m seeking opportunities in AI/ML roles where I can leverage my skills to contribute to cutting-edge projects.
 
 ## 🔧 Technologies & Tools
 
