@@ -10,7 +10,7 @@
 
 
 
-<a href="https://drive.google.com/file/d/13D3usH4VLz5izZf4-haZ3amJIxQPA6Bd/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/11ULkaGWrY296yu4SZZ5Keyrc0Y0kpmVt/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
 </a>
 <a href="https://balu-koduru-portfolio.netlify.app/" target="_blank">
