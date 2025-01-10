@@ -13,7 +13,7 @@
 <a href="https://drive.google.com/file/d/13D3usH4VLz5izZf4-haZ3amJIxQPA6Bd/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
 </a>
-<a href="https://baluharshavardan99.github.io/my-portfolio/" target="_blank">
+<a href="https://balu-koduru-portfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 
