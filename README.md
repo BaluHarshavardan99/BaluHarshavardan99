@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | Generative AI Researcher | LLM Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building intelligent systems, especially in the fields of **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I specialize in developing **Retrieval-Augmented Generation (RAG) systems**, **Chatbots**, and fine-tuning **Large Language Models (LLMs)** to solve complex real-world problems.
+Welcome to my GitHub profile! I'm passionate about building intelligent systems, particularly in the fields of **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I specialize in developing **Retrieval-Augmented Generation (RAG) systems**, **Chatbots**, and **agentic AI workflows** that leverage **Large Language Models (LLMs)** to solve complex, real-world problems. My expertise extends to designing and fine-tuning **LLM-based applications** for dynamic, context-aware solutions, as well as building **multi-agent systems** that enable automated reasoning and decision-making. Whether it's creating intelligent chatbots, optimizing RAG architectures, or deploying scalable AI agents, I thrive on pushing the boundaries of what AI can achieve.
 
 ---
 
