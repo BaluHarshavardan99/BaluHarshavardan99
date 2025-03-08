@@ -90,12 +90,6 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 
 ---
 
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaluHarshavardan99&show_icons=true&theme=radical)
-
----
-
 ## 🤝 **Let's Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/balu-koduru/)
