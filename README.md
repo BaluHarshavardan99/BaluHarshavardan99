@@ -1,90 +1,107 @@
-# 👋 Hi, I'm Balu Harshavardan Koduru
+# Hi, I'm Balu Koduru 👋
 
+### AI/ML Engineer | Generative AI Researcher | LLM Enthusiast
 
-
-
-
-
-
-
-
-
-
-<a href="https://drive.google.com/file/d/1PB2rwZsPhb6QKOrxOjovZacybe9Wiu54/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/-Resume-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
-</a>
-<a href="https://balu-koduru-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-
-
-
-I am a passionate Machine Learning Engineer with experience developing AI solutions across various domains, specializing in Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), computer vision, and multi-agent systems. I have worked on creating impactful models using deep learning and reinforcement learning. Currently, I’m focused on advanced recommendation systems using Llama LLM. I’m seeking opportunities in AI/ML roles where I can leverage my skills to contribute to cutting-edge projects.
-
-## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Spacy](https://img.shields.io/badge/-Spacy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-## 💼 Professional Experience
-
-### Machine Learning Researcher, SUNY RF
-*September 2022 - May 2024*
-
-- Pioneered the first-ever image-caption dataset in endoscopy and developed a contrastive learning-based Visual Question Answering (VQA) model, EndoAssistant.
-- Fine-tuned LLaVA (LLM) for creating an AI assistant for endoscopic surgery.
-- Led the development of a Speech Therapy AI Agent, integrating deep learning models with clinical expertise.
-
-### Machine Learning Researcher, ACPS Group, Norway
-*January 2021 - June 2022*
-
-- Implemented a Multi-Agent Reinforcement Learning algorithm for drone fleets.
-- Developed CNN models to classify UAVs based on radio signals and analyze human speech signals, achieving high accuracy.
-
-### Data Analyst, JSW Energy
-*June 2019 - December 2019*
-
-- Developed deep learning models to predict Un-Burnt Carbon levels in thermal power plants, improving efficiency by 15%.
-- Conducted extensive EDA and built interactive dashboards in Tableau for data visualization.
-
-## 🌟 Projects
-
-- **EndoAssistant**: Developed a Visual Question Answering (VQA) model for endoscopic surgery using CLIP and Whisper API.
-- **Drone Fleet Control**: Implemented a reinforcement learning algorithm for drone fleet management in Unreal Engine’s AirSim simulator.
-- **Movie Database System**: Created a comprehensive movie information system using Python and SQL, optimized for performance.
-
-## 🎓 Education
-
-- **Master of Science (MS) in Artificial Intelligence**, University at Buffalo, The State University of New York *(May 2024)*
-- **Master of Science (M.Sc.) in Physics**, Birla Institute of Technology and Sciences Pilani *(June 2022)*
-- **Bachelor of Engineering (B.E.) in Electronics and Instrumentation**, BITS Pilani *(June 2022)*
-
-## 📚 Publications
-
-- " Recent Advances in Thermal Imaging and It’s Applications using Machine Learning: A Review" - IEEE Sensors
-- "Classification of UAVs Using Time-Frequency Analysis of Remote Control Signals and CNN" - IEEE iSES 2022
-- "Light Weight Deep CNN for Background Sound Classification in Speech Signals" - JASA
-- ## 📚 Publications
-
-- ["Recent Advances in Thermal Imaging and It’s Applications using Machine Learning: A Review"](https://ieeexplore.ieee.org/abstract/document/10014654) - IEEE Sensors
-- ["Classification of UAVs Using Time-Frequency Analysis of Remote Control Signals and CNN"](https://ieeexplore.ieee.org/abstract/document/10027150) - IEEE iSES 2022
-- ["Light Weight Deep CNN for Background Sound Classification in Speech Signals"](https://pubs.aip.org/asa/jasa/article-abstract/151/4/2773/2838550/Lightweight-deep-convolutional-neural-network-for?redirectedFrom=fulltext) - JASA
-
-
-## 📫 How to reach me
-
-- **Email**: [balu.koduru99@gmail.com](mailto:balu.koduru99@gmail.com)
-- **GitHub**: [BaluHarshavardan99](https://github.com/BaluHarshavardan99)
-- **LinkedIn**: [Balu Harshavardan Koduru](https://linkedin.com/in/balu-koduru)
-
-![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+Welcome to my GitHub profile! I'm passionate about building intelligent systems, especially in the fields of **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I specialize in developing **Retrieval-Augmented Generation (RAG) systems**, **Chatbots**, and fine-tuning **Large Language Models (LLMs)** to solve complex real-world problems.
 
 ---
 
-⭐️ From [BaluHarshavardan99](https://github.com/BaluHarshavardan99)
+## 🚀 **About Me**
+
+- 🔭 I’m currently working as an **AI/Machine Learning Engineer** at **CBase AI**, where I build advanced RAG-based chatbots and multi-agent workflows using **LangChain** and **Generative AI**.
+- 🌱 I’m deeply involved in **Generative AI research**, focusing on **multi-modal LLMs**, **prompt engineering**, and **knowledge graph integration**.
+- 👯 I’m open to collaborating on projects related to **AI/ML**, **NLP**, **Computer Vision**, and **Reinforcement Learning**.
+- 💬 Ask me about **RAG systems**, **LLM fine-tuning**, **Chatbots**, or anything related to **Generative AI**.
+- 📫 How to reach me: **[balu.koduru99@gmail.com](mailto:balu.koduru99@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/balu-koduru/)** | **[Portfolio](https://your-portfolio-link.com)**
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Programming Languages**
+- Python, SQL (MySQL, PostgreSQL), MATLAB
+
+### **Libraries & Frameworks**
+- **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, LangChain
+- **NLP:** NLTK, SpaCy, OpenAI GPT, BERT, RoBERTa, LLaMA 2
+- **Computer Vision:** OpenCV, CLIP, LLaVA
+- **Data Processing:** Pandas, NumPy, Spark
+- **Web Development:** FastAPI, ReactJS, Material-UI
+
+### **Tools & Platforms**
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Git, GitHub
+- **Data Visualization:** Tableau, Power BI, Streamlit
+- **Other Tools:** ROS, Linux, Anaconda, Jupyter Notebook
+
+---
+
+## 💼 **Professional Experience**
+
+### **AI/Machine Learning Engineer** @ [CBase AI](https://cbaseai.com) *(Aug 2024 - Present)*
+- Developed **RAG-based Chatbots** integrated with SQL Databases, Vector Databases, and Neo4j knowledge graphs for dynamic, context-aware query responses.
+- Built **multi-agent RAG workflows** using **LangChain** and **Generative AI** for complex query resolution and automated reasoning.
+- Optimized RAG architecture through **prompt engineering** (Chain-of-Thought, Few-Shot) and **Vector Databases**, improving retrieval quality by 30%.
+- Deployed RAG systems on **AWS** using **Docker** and **Kubernetes**, achieving 99.5% uptime and automated scaling.
+
+### **Generative AI Researcher** @ [SUNY RF](https://www.suny.edu) *(Jan 2023 - Jun 2024)*
+- Led the development of **EndoAssistant**, a **Generative AI model** for medical surgery analysis, and created the **first-ever** image-caption dataset in endoscopy.
+- Designed a medical knowledge **RAG system** using **LangChain** and fine-tuned **multi-modal LLMs** (LLaVA, CLIP) for evidence-based surgical responses.
+- Integrated **OpenAI’s Whisper** with **GenAI-based text correction**, reducing transcription errors by 33% in medical speech-to-text pipelines.
+- Developed an **NLP pipeline** using **BERT** and fine-tuned **LLaMA 2** to extract structured data from patient records, reducing documentation time by 60%.
+
+### **Machine Learning Researcher** @ [ACPS Group](https://acpsgroup.com) *(Jan 2021 - Jun 2022)*
+- Implemented **Multi-Agent Reinforcement Learning** algorithms for autonomous drone fleets, optimizing UAV navigation and coordination.
+- Developed **CNN-based models** for UAV classification and environment analysis, achieving 99.09% and 95.2% accuracy, respectively.
+
+---
+
+## 🎓 **Education**
+
+- **Master of Science (MS) in Artificial Intelligence**  
+  *University at Buffalo, SUNY* | *May 2024*
+
+- **Master of Science (M.Sc.) in Physics** & **Bachelor of Engineering (B.E.) in Electronics and Instrumentation**  
+  *Birla Institute of Technology and Sciences Pilani (BITS Pilani)* | *June 2022*
+
+---
+
+## 📝 **Publications**
+
+- **Deep Learning Approaches in Modern Thermal Imaging: A Comprehensive Review**  
+  *IEEE Sensors* | *Cited 70+ times*
+
+- **CNN-Based UAV Classification through Time-Frequency Analysis of RC Signal Patterns**  
+  *IEEE iSES 2022*
+
+- **Efficient Deep Learning Architecture for Ambient Sound Detection in Speech Processing**  
+  *JASA*
+
+---
+
+## 🔧 **Projects**
+
+### **CareerSynth.AI: Multi-LLM Career Assistant Platform**
+- Built an AI-powered career platform using **ReactJS**, **Material-UI**, and **FastAPI**, integrating **GPT**, **Anthropic (Claude)**, and **GROQ APIs** for automated cover letters, resume optimization, and interview prep.
+- Developed a scalable backend on **GCP** using **LangChain**, improving candidate-job match rates by 30%.
+
+### **Prompt Engineering: Hallucination Mitigation in Chatbots**
+- Enhanced LLM accuracy by implementing **prompt structuring** and **iterative refinement**, reducing hallucinations by 40%.
+- Built a **RoBERTa-based transformer model** for hallucination mitigation, achieving 87.4% accuracy.
+
+---
+
+## 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balu-koduru&show_icons=true&theme=radical)
+
+---
+
+## 🤝 **Let's Connect!**
+
+- [LinkedIn](https://www.linkedin.com/in/balu-koduru/)
+- [Portfolio](https://your-portfolio-link.com)
+- Email: **[balu.koduru99@gmail.com](mailto:balu.koduru99@gmail.com)**
+
+---
+
+⭐️ **Feel free to explore my repositories and reach out if you'd like to collaborate or discuss AI/ML projects!**
