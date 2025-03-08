@@ -37,19 +37,19 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 
 ## 💼 **Professional Experience**
 
-### **AI/Machine Learning Engineer** @ [CBase AI](https://cbaseai.com) *(Aug 2024 - Present)*
+### **AI/Machine Learning Engineer** @ **CBase AI** *(Aug 2024 - Present)*
 - Developed **RAG-based Chatbots** integrated with SQL Databases, Vector Databases, and Neo4j knowledge graphs for dynamic, context-aware query responses.
 - Built **multi-agent RAG workflows** using **LangChain** and **Generative AI** for complex query resolution and automated reasoning.
 - Optimized RAG architecture through **prompt engineering** (Chain-of-Thought, Few-Shot) and **Vector Databases**, improving retrieval quality by 30%.
 - Deployed RAG systems on **AWS** using **Docker** and **Kubernetes**, achieving 99.5% uptime and automated scaling.
 
-### **Generative AI Researcher** @ [SUNY RF](https://www.suny.edu) *(Jan 2023 - Jun 2024)*
+### **Generative AI Researcher** @ **SUNY RF** *(Jan 2023 - Jun 2024)*
 - Led the development of **EndoAssistant**, a **Generative AI model** for medical surgery analysis, and created the **first-ever** image-caption dataset in endoscopy.
 - Designed a medical knowledge **RAG system** using **LangChain** and fine-tuned **multi-modal LLMs** (LLaVA, CLIP) for evidence-based surgical responses.
 - Integrated **OpenAI’s Whisper** with **GenAI-based text correction**, reducing transcription errors by 33% in medical speech-to-text pipelines.
 - Developed an **NLP pipeline** using **BERT** and fine-tuned **LLaMA 2** to extract structured data from patient records, reducing documentation time by 60%.
 
-### **Machine Learning Researcher** @ [ACPS Group](https://acpsgroup.com) *(Jan 2021 - Jun 2022)*
+### **Machine Learning Researcher** @ **ACPS Group** *(Jan 2021 - Jun 2022)*
 - Implemented **Multi-Agent Reinforcement Learning** algorithms for autonomous drone fleets, optimizing UAV navigation and coordination.
 - Developed **CNN-based models** for UAV classification and environment analysis, achieving 99.09% and 95.2% accuracy, respectively.
 
@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 
 ## 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balu-koduru&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaluHarshavardan99&show_icons=true&theme=radical)
 
 ---
 
