@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 ## 🤝 **Let's Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/balu-koduru/)
-- [Portfolio](https://your-portfolio-link.com)
+- [Portfolio](https://balu-koduru-portfolio.netlify.app/)
 - Email: **[balu.koduru99@gmail.com](mailto:balu.koduru99@gmail.com)**
 
 ---
