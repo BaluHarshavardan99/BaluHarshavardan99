@@ -1,7 +1,3 @@
-Thanks for sharing your GitHub README—it’s already strong, but I’ve refined it for clarity, impact, and conciseness while keeping your tone and enthusiasm intact. Here's the **refined version**:
-
----
-
 # 👋 Hi, I'm Balu Koduru
 
 ### AI/ML Engineer | GenAI Researcher | LLM & Agentic AI Enthusiast
@@ -14,7 +10,7 @@ My work blends engineering and research—fine-tuning LLMs, designing scalable a
 
 ## 🚀 About Me
 
-* 🔭 Currently working as an **AI/ML Engineer at CBase AI**, building advanced GenAI chatbots, RAG pipelines, and multi-agent systems using LangChain and LLM APIs.
+* 🔭 Currently working as an **AI Engineer at CBase AI**, building advanced GenAI chatbots, RAG pipelines, and multi-agent systems using LangChain and LLM APIs.
 * 🧠 Former **Generative AI Researcher at SUNY RF**, focused on **multi-modal LLMs**, **medical RAG systems**, and **speech-to-text pipelines**.
 * 🌍 Passionate about solving real-world problems with AI across healthcare, enterprise automation, and intelligent interfaces.
 * 💬 Ask me about LLMs, RAG, prompt engineering, AI agents, or deploying scalable GenAI architectures.
@@ -100,6 +96,3 @@ My work blends engineering and research—fine-tuning LLMs, designing scalable a
 
 ⭐️ *Feel free to explore my repos or reach out for collaborations in AI, LLMs, or GenAI systems!*
 
----
-
-Let me know if you'd like this converted into a Markdown file or adapted for your personal website as well.
