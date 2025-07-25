@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Balu Koduru
 
-### AI/ML Engineer | GenAI Researcher | LLM & Agentic AI Enthusiast
+### AI/ML Engineer | LLM & Agentic AI 
 
 Welcome to my GitHub! I'm passionate about building intelligent systems at the intersection of **AI**, **ML**, and **Generative AI**. I specialize in developing **Retrieval-Augmented Generation (RAG) systems**, **chatbots**, and **multi-agent AI workflows** that leverage **LLMs** to solve complex, real-world problems.
 
