@@ -27,7 +27,6 @@ My work blends engineering and research—fine-tuning LLMs, designing scalable a
 ## 🤝 Let’s Connect!
 
 * [LinkedIn](https://www.linkedin.com/in/balu-koduru/)
-* [Portfolio](https://balu-koduru-portfolio.netlify.app/)
 * 📧 [balu.koduru99@gmail.com](mailto:balu.koduru99@gmail.com)
 
 ---
